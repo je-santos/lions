@@ -1,7 +1,7 @@
 # Mountain Lion Image Classifier
 
 <p align="center">
-  <img src="/pics/MLproj.png" width="600">
+  <img src="/pics/MLProj.png" width="600">
 </p>
 
 
