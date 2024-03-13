@@ -33,3 +33,6 @@ Below is the leaderboard showing the performance of various model iterations bas
 |-----------|----------------------------|--------------------|---------------------|
 | Javier    | 20%                        | 123                | 75%                 |
      
+
+## References
+[1] The images are located in Hari's [Google Drive](https://drive.google.com/drive/folders/1g8MZmL-rDcTXpUrVBf-UEgudM2NHgKQJ).
