@@ -1,4 +1,4 @@
-# Mountain Lion Image Classifier
+# Mountain Lion Classification Challenge
 
 <p align="center">
   <img src="/pics/MLProj.png" width="600">
