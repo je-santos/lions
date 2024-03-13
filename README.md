@@ -29,9 +29,9 @@ The notebook walks you through the data preparation, model training, and validat
 
 Below is the leaderboard showing the performance of various model iterations based on the validation dataset. The models are ranked by validation accuracy.
 
-| Name      | Validation Data Percentage | Random Number Seed | Validation Accuracy |
-|-----------|----------------------------|--------------------|---------------------|
-| Javier    | 20%                        | 123                | 75%                 |
+| Name      | Validation Data Percentage | Random Number Seed | Validation Accuracy | Notes |
+|-----------|----------------------------|--------------------|---------------------|-------|
+| Javier    | 20%                        | 123                | 70%                 | Provided notebook      |
      
 
 ## References
