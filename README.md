@@ -1,5 +1,10 @@
 # Mountain Lion Image Classifier
 
+<p align="center">
+  <img src="/pics/MLproj.png" width="600">
+</p>
+
+
 This repository contains a machine learning project aimed at classifying images into two categories: containing a mountain lion or not. The core of this project is a Jupyter notebook that outlines the process of training a model for this binary classification task.
 
 ## Project Overview
