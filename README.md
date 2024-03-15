@@ -50,6 +50,7 @@ Below is the leaderboard showing the performance of various model iterations bas
 | Name      | Validation Data Percentage | Random Number Seed | Validation Accuracy | Notes |
 |-----------|----------------------------|--------------------|---------------------|-------|
 | Javier    | 20%                        | 123                | 70%                 | Provided notebook      |
+| Javier    | 20%                        | 123                | 74%                 | Followed Hari's suggestion and trained with 256x256      |
      
 
 ## References
