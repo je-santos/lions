@@ -13,7 +13,20 @@ The goal of this project is to accurately classify images based on the presence 
 
 ## Getting Started
 
-To run the project, follow these steps:
+To run the project in [Google Colab](https://colab.research.google.com/), click:
+
+
+<a target="_blank" href="https://colab.research.google.com/github/je-santos/lions/blob/main/classifying_lions.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
+
+<br>
+<br>
+<br>
+
+
+
+Alternately, to run the project locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Ensure you have Jupyter Notebook installed, or use [Google Colab](https://colab.research.google.com/) for an online environment.
