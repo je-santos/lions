@@ -1,4 +1,5 @@
-tensorflow
+ipykernel
 keras
-matplotlib
 livelossplot
+matplotlib
+tensorflow
